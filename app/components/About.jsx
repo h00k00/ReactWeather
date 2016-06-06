@@ -4,7 +4,7 @@ var About = (props) => {
   return (
     <div>
       <h1 className="text-center">About</h1>
-      <p>Testing React with this small app</p>
+      <p>Testing React with this small app!</p>
       <p>Tools used:</p>
       <ul>
         <li>
@@ -24,7 +24,24 @@ module.exports = About;
                                
                                
                                
+
                                
+                               
+                               
+                               
+                               
+                               
+                      
+
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+
+      
                                
                                
 
