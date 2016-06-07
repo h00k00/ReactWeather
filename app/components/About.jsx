@@ -11,7 +11,7 @@ var About = (props) => {
           <a href="https://https://facebook.github.io/react">React</a> - JavaScript framework.
         </li>
         <li>
-          <a href="http://openweathermap.org">Open Weather Map</a> - Data from Open WeatherMap.
+          <a href="http://openweathermap.org">Open Weather Map</a> - Weather data from Open WeatherMap.
         </li>
       </ul>
     </div>
@@ -41,7 +41,6 @@ module.exports = About;
                                
                                
 
-      
-                               
+                              
                                
 
